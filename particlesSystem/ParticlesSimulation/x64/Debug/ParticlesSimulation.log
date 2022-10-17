@@ -1,0 +1,10 @@
+﻿  particles.cpp
+  particleSystem.cpp
+  render_particles.cpp
+C:\Users\cleme\Desktop\test\particlesSystem\ParticlesSimulation\render_particles.cpp(213,64): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  shaders.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  ParticlesSimulation.vcxproj -> C:\Users\cleme\Desktop\test\particlesSystem\x64\Debug\ParticlesSimulation.exe
